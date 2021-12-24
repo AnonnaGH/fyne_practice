@@ -19,5 +19,5 @@ func main() {
 ```
 ### output :
 
-![img1](./image/1.png)
+![img1](./image/1.PNG)
 
